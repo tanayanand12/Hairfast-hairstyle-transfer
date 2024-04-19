@@ -69,6 +69,9 @@ Google Colab File: [Hairfast-hairstyle-transfer](https://colab.research.google.c
 ## Results
 The effectiveness of our approach is demonstrated on realism metrics after random hairstyle transfer and reconstruction when the original hairstyle is transferred. In the most difficult scenario of transferring both shape and color of a hairstyle from different images, our method performs in less than a second on the Nvidia V100.
 
+![](Results/1.png)
+![](Results/2.png)
+
 ## References
 @article{nikolaev2024hairfastgan,
   title={HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach},
