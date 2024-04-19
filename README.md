@@ -73,12 +73,14 @@ The effectiveness of our approach is demonstrated on realism metrics after rando
 ![](Results/2.png)
 
 ## References
+```
 @article{nikolaev2024hairfastgan,
-  title={HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach},
-  author={Nikolaev, Maxim and Kuznetsov, Mikhail and Vetrov, Dmitry and Alanov, Aibek},
-  journal={arXiv preprint arXiv:2404.01094},
-  year={2024}
+          title={HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach},
+          author={Nikolaev, Maxim and Kuznetsov, Mikhail and Vetrov, Dmitry and Alanov, Aibek},
+          journal={arXiv preprint arXiv:2404.01094},
+          year={2024}
 }
+```
 
 
 ## Extra Information about the Methodology
